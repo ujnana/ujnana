@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ujnana/ujnana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"><img src="https://raw.githubusercontent.com/ujnana/ujnana/main/src/cover.png"></p>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Uj Nana </h1>
+
 
 <h2 align="left">👨🏻‍💻  About Me</h2>
 
