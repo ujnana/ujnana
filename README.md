@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"><img src="https://raw.githubusercontent.com/ujnana/ujnana/main/src/cover.png"></p>
+
 <h2 align="left">👨🏻‍💻  About Me</h2>
 
 - 🔭 I’m currently working on ...
