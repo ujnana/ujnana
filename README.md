@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">👨🏻‍💻  About Me</h2>
 
-- 🔭 I’m currently working on <a href="garapdigital.id">Garap Digital Nusantara</a>
+- 🔭 I’m currently working on <a href="https://garapdigital.id">Garap Digital Nusantara</a>
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
